@@ -6,7 +6,7 @@ HEADERS_MRSTY = [
     'cui', 'sty', 'hier' 'desc', 'sid', 'num'
 ]
 
-NEGATIONS = {'none', 'non', 'neither', 'nor', 'no', 'not'}
+NEGATIONS = {'none', 'non', 'neither', 'nor', 'no', 'not', ":n"}
 
 # The following is a list of all existing semtypes along with their name and some examples. 
 # You can easily select the ones you need by commenting out the lines that are not relevant for your application.
